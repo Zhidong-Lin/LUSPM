@@ -32,7 +32,7 @@ public class MainLUSMAlgorithm {
 //        String input = fileToPath("/"+finalInput);
         String input = fileToPath("/"+finalInput);
 //        String input = fileToPath("/item/"+finalInput);
-        String output = ".//output_sign_max14_span_65_new.txt";
+        String output = ".//output_SIGN_sequence_utility_max22_new.txt";
 //        String output = ".//output_test_max5_3.txt";
 //        String output = ".//test5_sign_8.txt";
 //        String output = ".//outputNew_improve_kosrak10k.txt";
@@ -41,9 +41,9 @@ public class MainLUSMAlgorithm {
         System.out.println("程序开始前的内存消耗："+initialMemory/(1024*1024)+"MB");
         writer = new BufferedWriter(new FileWriter(output));
 //        int[] max_utility = new int[]{15};
-        int[] max_utility = new int[]{14};
-        int maxLength=65;
-//        int maxLength=Integer.MAX_VALUE;
+        int[] max_utility = new int[]{22};
+//        int maxLength=65;
+        int maxLength=Integer.MAX_VALUE;
         if(!isLUSM_naive){
             for (int i = 0; i < max_utility.length; i++) {
                 MemoryLogger.getInstance().reset();
