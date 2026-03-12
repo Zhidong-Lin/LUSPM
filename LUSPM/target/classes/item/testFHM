@@ -1,0 +1,82 @@
+low utility itemset  7:7
+low utility itemset  7 6:7
+low utility itemset  7 6 2:11
+low utility itemset  7 6 2 5:14
+low utility itemset  7 6 2 5 3:16
+low utility itemset  7 6 2 3:13
+low utility itemset  7 6 5:10
+low utility itemset  7 6 5 3:12
+low utility itemset  7 6 3:9
+low utility itemset  7 1:15
+low utility itemset  7 1 5:21
+low utility itemset  7 1 5 3:27
+low utility itemset  7 1 3:21
+low utility itemset  7 2:6
+low utility itemset  7 2 5:9
+low utility itemset  7 2 5 3:11
+low utility itemset  7 2 3:8
+low utility itemset  7 5:16
+low utility itemset  7 5 3:24
+low utility itemset  7 3:15
+low utility itemset  6:10
+low utility itemset  6 4:11
+low utility itemset  6 4 1:16
+low utility itemset  6 4 1 2:26
+low utility itemset  6 4 1 2 5:29
+low utility itemset  6 4 1 2 5 3:31
+low utility itemset  6 4 1 2 3:28
+low utility itemset  6 4 1 5:19
+low utility itemset  6 4 1 5 3:21
+low utility itemset  6 4 1 3:18
+low utility itemset  6 4 2:21
+low utility itemset  6 4 2 5:24
+low utility itemset  6 4 2 5 3:26
+low utility itemset  6 4 2 3:23
+low utility itemset  6 4 5:14
+low utility itemset  6 4 5 3:16
+low utility itemset  6 4 3:13
+low utility itemset  6 1:10
+low utility itemset  6 1 2:20
+low utility itemset  6 1 2 5:23
+low utility itemset  6 1 2 5 3:25
+low utility itemset  6 1 2 3:22
+low utility itemset  6 1 5:13
+low utility itemset  6 1 5 3:15
+low utility itemset  6 1 3:12
+low utility itemset  6 2:24
+low utility itemset  6 2 5:30
+low utility itemset  6 2 5 3:34
+low utility itemset  6 2 3:28
+low utility itemset  6 5:16
+low utility itemset  6 5 3:20
+low utility itemset  6 3:14
+low utility itemset  4:14
+low utility itemset  4 1:18
+low utility itemset  4 1 2:21
+low utility itemset  4 1 2 5:24
+low utility itemset  4 1 2 5 3:26
+low utility itemset  4 1 2 3:23
+low utility itemset  4 1 5:14
+low utility itemset  4 1 5 3:16
+low utility itemset  4 1 3:22
+low utility itemset  4 2:30
+low utility itemset  4 2 5:36
+low utility itemset  4  3:35
+low utility itemset  4 5:18
+low utility itemset  4 5 3:23
+low utility itemset  4 3:21
+low utility itemset  1:20
+low utility itemset  1 2:15
+low utility itemset  1 2 5:18
+low utility itemset  1 2 5 3:20
+low utility itemset  1 2 3:17
+low utility itemset  1 5:24
+low utility itemset  1 5 3:32
+low utility itemset  1 3:30
+low utility itemset  2:22
+low utility itemset  2 5:31
+low utility itemset  2 5 3:38
+low utility itemset  2 3:29
+low utility itemset  5:15
+low utility itemset  5 3:28
+low utility itemset  3:15
